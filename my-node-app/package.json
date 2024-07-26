@@ -1,0 +1,16 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js app",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+   "express": "^4.17.1"
+  },
+  "devDependencies": {
+   "jest": "^27.0.6"
+  }
+}
+
