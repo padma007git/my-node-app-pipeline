@@ -10,7 +10,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git url: 'https://github.com/your-repo/my-node-app.git', branch: 'main'
+                git url: 'https://github.com/padma007git/my-node-app-pipeline.git', branch: 'main'
             }
         }
 
@@ -65,7 +65,7 @@ ipipeline {
     stages {
         stage('Checkout') {
             steps {
-                git url: 'https://github.com/your-repo/my-node-app.git', branch: 'main'
+                git url: 'https://github.com/padma007git/my-node-app-pipeline.git', branch: 'main'
             }
         }
 
